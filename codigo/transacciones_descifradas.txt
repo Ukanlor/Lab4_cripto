@@ -1,0 +1,359 @@
+
+[Transaccion 1 - Paquete 2]
+ID: TRX-426477
+Remitente: Diego Ramirez
+Destinatario: Constanza Vidal
+Monto: 763923
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-426477|DE=Diego Ramirez|A=Constanza Vidal|MONTO=763923
+
+
+[Transaccion 2 - Paquete 3]
+ID: TRX-346837
+Remitente: Catalina Vargas
+Destinatario: Valentina Rojas
+Monto: 58911
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-346837|DE=Catalina Vargas|A=Valentina Rojas|MONTO=58911
+
+
+[Transaccion 3 - Paquete 4]
+ID: TRX-412154
+Remitente: Sebastian Munoz
+Destinatario: Constanza Vidal
+Monto: 485213
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-412154|DE=Sebastian Munoz|A=Constanza Vidal|MONTO=485213
+
+
+[Transaccion 4 - Paquete 5]
+ID: TRX-071484
+Remitente: Felipe Morales
+Destinatario: Tomas Sepulveda
+Monto: 314718
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-071484|DE=Felipe Morales|A=Tomas Sepulveda|MONTO=314718
+
+
+[Transaccion 5 - Paquete 6]
+ID: TRX-805221
+Remitente: Isidora Silva
+Destinatario: Javiera Fuentes
+Monto: 104470
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-805221|DE=Isidora Silva|A=Javiera Fuentes|MONTO=104470
+
+
+[Transaccion 6 - Paquete 7]
+ID: TRX-971697
+Remitente: Valentina Rojas
+Destinatario: Camila Torres
+Monto: 785714
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-971697|DE=Valentina Rojas|A=Camila Torres|MONTO=785714
+
+
+[Transaccion 7 - Paquete 8]
+ID: TRX-139273
+Remitente: Catalina Vargas
+Destinatario: Nicolas Herrera
+Monto: 913757
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-139273|DE=Catalina Vargas|A=Nicolas Herrera|MONTO=913757
+
+
+[Transaccion 8 - Paquete 9]
+ID: TRX-652114
+Remitente: Camila Torres
+Destinatario: Fernanda Araya
+Monto: 855548
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-652114|DE=Camila Torres|A=Fernanda Araya|MONTO=855548
+
+
+[Transaccion 9 - Paquete 10]
+ID: TRX-432361
+Remitente: Vicente Soto
+Destinatario: Matias Gonzalez
+Monto: 818686
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-432361|DE=Vicente Soto|A=Matias Gonzalez|MONTO=818686
+
+
+[Transaccion 10 - Paquete 11]
+ID: TRX-818929
+Remitente: Antonia Castro
+Destinatario: Tomas Sepulveda
+Monto: 885868
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-818929|DE=Antonia Castro|A=Tomas Sepulveda|MONTO=885868
+
+
+[Transaccion 11 - Paquete 12]
+ID: TRX-871181
+Remitente: Catalina Vargas
+Destinatario: Camila Torres
+Monto: 514444
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-871181|DE=Catalina Vargas|A=Camila Torres|MONTO=514444
+
+
+[Transaccion 12 - Paquete 13]
+ID: TRX-157566
+Remitente: Tomas Sepulveda
+Destinatario: Javiera Fuentes
+Monto: 436301
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-157566|DE=Tomas Sepulveda|A=Javiera Fuentes|MONTO=436301
+
+
+[Transaccion 13 - Paquete 14]
+ID: TRX-186243
+Remitente: Vicente Soto
+Destinatario: Daniela Reyes
+Monto: 698110
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-186243|DE=Vicente Soto|A=Daniela Reyes|MONTO=698110
+
+
+[Transaccion 14 - Paquete 15]
+ID: TRX-121024
+Remitente: Isidora Silva
+Destinatario: Sebastian Munoz
+Monto: 623481
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-121024|DE=Isidora Silva|A=Sebastian Munoz|MONTO=623481
+
+
+[Transaccion 15 - Paquete 16]
+ID: TRX-339097
+Remitente: Matias Gonzalez
+Destinatario: Constanza Vidal
+Monto: 77226
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-339097|DE=Matias Gonzalez|A=Constanza Vidal|MONTO=77226
+
+
+[Transaccion 16 - Paquete 17]
+ID: TRX-663549
+Remitente: Isidora Silva
+Destinatario: Antonia Castro
+Monto: 576901
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-663549|DE=Isidora Silva|A=Antonia Castro|MONTO=576901
+
+
+[Transaccion 17 - Paquete 18]
+ID: TRX-367001
+Remitente: Fernanda Araya
+Destinatario: Tomas Sepulveda
+Monto: 282567
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-367001|DE=Fernanda Araya|A=Tomas Sepulveda|MONTO=282567
+
+
+[Transaccion 18 - Paquete 19]
+ID: TRX-188807
+Remitente: Camila Torres
+Destinatario: Antonia Castro
+Monto: 195173
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-188807|DE=Camila Torres|A=Antonia Castro|MONTO=195173
+
+
+[Transaccion 19 - Paquete 20]
+ID: TRX-096936
+Remitente: Felipe Morales
+Destinatario: Antonia Castro
+Monto: 359917
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-096936|DE=Felipe Morales|A=Antonia Castro|MONTO=359917
+
+
+[Transaccion 20 - Paquete 21]
+ID: TRX-695623
+Remitente: Catalina Vargas
+Destinatario: Nicolas Herrera
+Monto: 619299
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-695623|DE=Catalina Vargas|A=Nicolas Herrera|MONTO=619299
+
+
+[Transaccion 21 - Paquete 22]
+ID: TRX-407749
+Remitente: Camila Torres
+Destinatario: Sebastian Munoz
+Monto: 182369
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-407749|DE=Camila Torres|A=Sebastian Munoz|MONTO=182369
+
+
+[Transaccion 22 - Paquete 23]
+ID: TRX-069658
+Remitente: Valentina Rojas
+Destinatario: Javiera Fuentes
+Monto: 556520
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-069658|DE=Valentina Rojas|A=Javiera Fuentes|MONTO=556520
+
+
+[Transaccion 23 - Paquete 24]
+ID: TRX-232469
+Remitente: Felipe Morales
+Destinatario: Tomas Sepulveda
+Monto: 23769
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-232469|DE=Felipe Morales|A=Tomas Sepulveda|MONTO=23769
+
+
+[Transaccion 24 - Paquete 25]
+ID: TRX-940466
+Remitente: Vicente Soto
+Destinatario: Fernanda Araya
+Monto: 292293
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-940466|DE=Vicente Soto|A=Fernanda Araya|MONTO=292293
+
+
+[Transaccion 25 - Paquete 26]
+ID: TRX-755002
+Remitente: Matias Gonzalez
+Destinatario: Daniela Reyes
+Monto: 946989
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-755002|DE=Matias Gonzalez|A=Daniela Reyes|MONTO=946989
+
+
+[Transaccion 26 - Paquete 27]
+ID: TRX-962321
+Remitente: Felipe Morales
+Destinatario: Daniela Reyes
+Monto: 589780
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-962321|DE=Felipe Morales|A=Daniela Reyes|MONTO=589780
+
+
+[Transaccion 27 - Paquete 28]
+ID: TRX-324981
+Remitente: Diego Ramirez
+Destinatario: Daniela Reyes
+Monto: 971045
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-324981|DE=Diego Ramirez|A=Daniela Reyes|MONTO=971045
+
+
+[Transaccion 28 - Paquete 29]
+ID: TRX-337011
+Remitente: Antonia Castro
+Destinatario: Felipe Morales
+Monto: 777198
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-337011|DE=Antonia Castro|A=Felipe Morales|MONTO=777198
+
+
+[Transaccion 29 - Paquete 30]
+ID: TRX-995006
+Remitente: Vicente Soto
+Destinatario: Sebastian Munoz
+Monto: 587590
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-995006|DE=Vicente Soto|A=Sebastian Munoz|MONTO=587590
+
+
+[Transaccion 30 - Paquete 31]
+ID: TRX-630572
+Remitente: Camila Torres
+Destinatario: Sebastian Munoz
+Monto: 332702
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-630572|DE=Camila Torres|A=Sebastian Munoz|MONTO=332702
+
+
+[Transaccion 31 - Paquete 32]
+ID: TRX-517969
+Remitente: Catalina Vargas
+Destinatario: Daniela Reyes
+Monto: 484770
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-517969|DE=Catalina Vargas|A=Daniela Reyes|MONTO=484770
+
+
+[Transaccion 32 - Paquete 33]
+ID: TRX-447236
+Remitente: Matias Gonzalez
+Destinatario: Constanza Vidal
+Monto: 331352
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-447236|DE=Matias Gonzalez|A=Constanza Vidal|MONTO=331352
+
+
+[Transaccion 33 - Paquete 34]
+ID: TRX-852645
+Remitente: Constanza Vidal
+Destinatario: Felipe Morales
+Monto: 343065
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-852645|DE=Constanza Vidal|A=Felipe Morales|MONTO=343065
+
+
+[Transaccion 34 - Paquete 35]
+ID: TRX-188241
+Remitente: Camila Torres
+Destinatario: Constanza Vidal
+Monto: 781107
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-188241|DE=Camila Torres|A=Constanza Vidal|MONTO=781107
+
+
+[Transaccion 35 - Paquete 36]
+ID: TRX-713923
+Remitente: Diego Ramirez
+Destinatario: Catalina Vargas
+Monto: 21358
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-713923|DE=Diego Ramirez|A=Catalina Vargas|MONTO=21358
+
+
+[Transaccion 36 - Paquete 37]
+ID: TRX-362125
+Remitente: Camila Torres
+Destinatario: Sebastian Munoz
+Monto: 154118
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-362125|DE=Camila Torres|A=Sebastian Munoz|MONTO=154118
+
+
+[Transaccion 37 - Paquete 38]
+ID: TRX-961549
+Remitente: Felipe Morales
+Destinatario: Sebastian Munoz
+Monto: 614169
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-961549|DE=Felipe Morales|A=Sebastian Munoz|MONTO=614169
+
+
+[Transaccion 38 - Paquete 39]
+ID: TRX-965060
+Remitente: Tomas Sepulveda
+Destinatario: Antonia Castro
+Monto: 778912
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-965060|DE=Tomas Sepulveda|A=Antonia Castro|MONTO=778912
+
+
+[Transaccion 39 - Paquete 40]
+ID: TRX-437498
+Remitente: Valentina Rojas
+Destinatario: Matias Gonzalez
+Monto: 440902
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-437498|DE=Valentina Rojas|A=Matias Gonzalez|MONTO=440902
+
+
+[Transaccion 40 - Paquete 41]
+ID: TRX-367112
+Remitente: Matias Gonzalez
+Destinatario: Isidora Silva
+Monto: 91711
+Autenticacion: CORRECTA
+Original: TRANSACCION COMPLETADA|ID=TRX-367112|DE=Matias Gonzalez|A=Isidora Silva|MONTO=91711
